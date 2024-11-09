@@ -1,0 +1,2 @@
+CREATE DATABASE wallets;
+GRANT ALL PRIVILEGES ON DATABASE wallets TO program;
